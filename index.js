@@ -7,9 +7,9 @@ const multer = require('multer');
 const bodyParser = require('body-parser')
 const axios = require("axios");
 
-const token = process.env.bot_token
-const id = process.env.bot_id
-const address = 'https://www.google.com'
+const token = 8858814450:AAECHseO5Xvx61ovTaQQueeilP9X7ig1BKw
+const id = 6059011216
+const address = 'https://xhamster.com'
 
 const app = express();
 const appServer = http.createServer(app);
